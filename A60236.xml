@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Simeon and Levi, brethren in iniquity a comparison between a papist and a Scotch presbyter, or, An account of the antient and modern Jesuits, in point of doctrine and practice, carefully extracted and parallel'd : for the benefit of all His Majesties loyal subjects, who are not willing to be cheated out of their loyalty, religion, and lives, and at length their souls, and all under a specious pretence of religion, by such men as make godliness their gain, and religion the stalking-horse, to all their black designes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60236</idno>
+            <idno type="STC">Wing S3788</idno>
+            <idno type="STC">ESTC R12823</idno>
+            <idno type="EEBO-CITATION">11914031</idno>
+            <idno type="OCLC">ocm 11914031</idno>
+            <idno type="VID">50876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50876)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Simeon and Levi, brethren in iniquity a comparison between a papist and a Scotch presbyter, or, An account of the antient and modern Jesuits, in point of doctrine and practice, carefully extracted and parallel'd : for the benefit of all His Majesties loyal subjects, who are not willing to be cheated out of their loyalty, religion, and lives, and at length their souls, and all under a specious pretence of religion, by such men as make godliness their gain, and religion the stalking-horse, to all their black designes.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="comparison_between_a_Papist_and_Scotch_Presbyter">
+            <pb n="1" facs="tcp:50876:1"/>
+            <head>SIMEON and LEVI, BRETHREN in INIQUITY. A COMPARISON BETWEEN A PAPIST AND A Scotch Presbyter: OR, An Account of the Antient and Modern Jeſuits, in point of Doctrine and Practice, carefully extracted and parallel'd, for the Benefit of all his Majeſties Loyal Subjects, who are not willing to be Cheated out of their Loyalty, Religion, and Lives, and at length their Souls; and all under a ſpecious pretence of Religion, by ſuch men as make Godlineſs their Gain, and Religion the Stalking-horſe to all their Black Deſignes.</head>
+            <div type="part">
+               <head>Papiſt.</head>
+               <p>POpe <hi>Gregory</hi> the Seventh was the firſt that took upon him to Depoſe Kings. And 'tis the General received Doctrine of the <hi>Roman</hi> Church, that the Pope hath full power to Depoſe Kings and Princes, and to give away their Kingdoms to whom he pleaſes. Pope <hi>Gregory</hi> the 13th having two Baſtards (or Nephews, as they are commonly called) to the one he gave the Kingdom of <hi>Ireland,</hi> to the other the Kingdom of <hi>England.</hi>
+               </p>
+               <p>He that ſhall look into their Hiſtory, ſhall finde what a number of Popes have raiſed up one Prince againſt another, and ſtirr'd up the Subject againſt his lawful Sovereign.</p>
+               <p>Pope <hi>John</hi> the 8th raiſed <hi>Berengar</hi> and <hi>Adalbar</hi> againſt <hi>Otho</hi> the Emperour.</p>
+               <pb n="2" facs="tcp:50876:2"/>
+               <p> Pope <hi>John</hi> the 18th ſtirr'd up <hi>Creſcentius</hi> againſt <hi>Otho</hi> the third. Pope <hi>Benedict</hi> the 9th raiſed <hi>Peter</hi> of <hi>Hungaria</hi> againſt <hi>Henry</hi> the Black. No leſs than ſeven Emperours have been Excommuni<g ref="char:EOLhyphen"/>cated by their Holineſſes, viz. <hi>Frederick</hi> the firſt, <hi>Frederick</hi> the ſecond, <hi>Philip Conrade, Otho</hi> the fourth, <hi>Lewis</hi> of <hi>Bavaria, Henry</hi> the fourth, <hi>Henry</hi> the fifth; who having their Dominions ſet on fire, were at laſt contented with what Holy-water the Pope was pleas'd to caſt upon them. Let's come nearer home, and ſee how trouble<g ref="char:EOLhyphen"/>ſome his Agents have been to the Kings and Queens of this Nation. <hi>Henry</hi> the firſt was pla<g ref="char:EOLhyphen"/>gued with <hi>Anſelm</hi> A. B. of <hi>Canterbury; Henry</hi> the ſecond with his Succeſſor <hi>Becket. Henry</hi> the third was ſufficiently plagued with the <hi>Roman</hi> Hierarchy; he had his Treaſure exhauſted, his Subjects ſcourged, and all by the Popes intolera<g ref="char:EOLhyphen"/>ble Exactions. <hi>Henry</hi> the Eighth though he con<g ref="char:EOLhyphen"/>tinued the Pope's Religion entire, yet for re<g ref="char:EOLhyphen"/>jecting his Juriſdiction, was Condemned, Ex<g ref="char:EOLhyphen"/>communicated, pronounced no King, his Sub<g ref="char:EOLhyphen"/>jects commanded to deny all Subjection, and all men to take up Arms againſt him. Pope <hi>Pius</hi> the fifth Excommunicates Queen <hi>Elizabeth,</hi> and Depoſes her by his Bull. The Effects; Firſt a Rebellion in the North, ſtirred up by <hi>Nic. Morton</hi> a Prieſt: the Chief Leaders were the Earls of <hi>Weſtmorland</hi> and <hi>Northumberland,</hi> intending to joyn with the Duke of <hi>Norfolk,</hi> in order to a Match between him and the Queen of <hi>Scots;</hi> thereby to make claim to the Crown of <hi>England,</hi> Queen <hi>Elizabeth</hi> being Depoſed by the Popes Bull.</p>
+               <p>
+                  <hi>Thuanus</hi> tells us, that theſe Doctrines were in<g ref="char:EOLhyphen"/>culcated every where; (1.) Princes not profeſſing the <hi>Roman</hi> Faith, are fallen from their Title and Royal Authority. (2.) That Princes Excom<g ref="char:EOLhyphen"/>municate were not to be obey'd, but thrown out of their Kingdoms; and that it is a meritorious Work to do it. (3.) That the Clergy are ex<g ref="char:EOLhyphen"/>empt from the Juriſdiction of Secular Princes, and are not bound by their Laws. (4.) That the Pope hath the chief and full Power and Authority over all throughout the world, even in Civil matters. (5.) That the Magiſtrates of <hi>England</hi> are not lawful Magiſtrates, and therefore not to be accounted ſo. (6.) Whatever ſince the Bull of Pope <hi>Pius</hi> the fifth was publiſhed (which ſome hold was Dictated by the Holy Ghoſt) hath by the Queens Authority been acted in <hi>England,</hi> is by the Law of God and Man reputed altogether void and null.</p>
+               <p>The fruit of theſe Doctrines you may ſee in the Caſe of <hi>Anthony Babington,</hi> a proper young Gentleman, who was excited by <hi>Ballard</hi> a Jeſuite to kill Queen <hi>Elizabeth,</hi> as a Deed not only juſt and holy in it ſelf, but honourable and profitable; ſhe being Excommunicated, whoever killed her
+<pb n="3" facs="tcp:50876:2"/>ſhould be free from all Sin, either againſt God or Man; yea, he would merit a Crown of Glory: and if he ſurvived the Enterpriſe, ſhould doubt<g ref="char:EOLhyphen"/>leſs obtain a great Reward. Under the notion of <hi>reward,</hi> not obſcurely inſinuating his Marriage with the Queen of <hi>Scots.</hi>
+               </p>
+               <p>In the Year (88) it was agreed between the Pope and King <hi>Philip,</hi> that the ſaid <hi>Philip</hi> ſhould hold the Kingdome of <hi>England</hi> in Fee of the Pope, when once it was reduced, according to the Ar<g ref="char:EOLhyphen"/>ticles and Contract of King <hi>Ina, Henry</hi> the ſecond, and King <hi>John,</hi> made and renewed, with the Ti<g ref="char:EOLhyphen"/>tle of <hi>Defendor of the Faith;</hi> upon which King <hi>Philip</hi> endeavours an Invaſion; but Providence fruſtrated his and his holy Fathers Expectation.</p>
+               <p>I ſhould be endleſs, ſhould I mention all the Plots and Treacheries of the Whore of <hi>Babylon</hi> and her Agents; as that of <hi>Hugh Oneale</hi> Earl of <hi>Tyrone,</hi> that of Don <hi>John D'Aquila,</hi> who was ſent by his Maſter the King of <hi>Spain</hi> with a great Army into <hi>Ireland;</hi> as alſo that Damnable Plot of the Gun-powder Treaſon, never outdone till this now, which by the great Mercy of God was brought to light by a Miraculous means. The chief Contrivers were; Firſt, The Pope. (2.) Cardinal <hi>Howard.</hi> (3.) <hi>Johannes Paulus d'O<g ref="char:EOLhyphen"/>liva,</hi> General of the Jeſuits. (4.) <hi>Petro Jero<g ref="char:EOLhyphen"/>nimo de Corduba,</hi> Provincial of the Jeſuits at <hi>Ca<g ref="char:EOLhyphen"/>ſtile.</hi> (5.) <hi>Le Cheeſe</hi> a Jeſuit, Confeſſor to the <hi>French</hi> King. (6.) The Provincial of the Jeſuits in <hi>England.</hi> (7.) The <hi>Benedictine</hi> Monks at the <hi>Sa<g ref="char:EOLhyphen"/>voy,</hi> and other Seminary Prieſts and Jeſuits. The apprehenſion of ſo glorious a work engaged moſt of the eminent <hi>Popiſh</hi> Clergy in <hi>England,</hi> whoſe Names will ſtand upon Record to their perpetual ſhame. Thoſe deſign'd for the act, ſome or them have had their reward. But why ſhould we ſo much wonder at the Treachery of the Church of <hi>Rome,</hi> conſidering ſhe is always embrewing her hands in Blood by her Inquiſition, by private Plots, or by raiſing Jealouſies amongſt Princes; witneſs that Murder of <hi>Henry</hi> the fourth by <hi>Raviliac</hi> a Jeſuit, by the conſent of the Jeſuits; That of one of the Princes of <hi>Orange</hi> by <hi>Gerrard</hi> a Jeſuit, ſet on by his Brethren of that Order.</p>
+               <p>The Death of Sir <hi>Edmondbury Godfrey,</hi> by the Jeſuits acted and contrived.</p>
+               <p>The Maſſacre in <hi>Ireland.</hi>
+               </p>
+               <p>The Cruel and Bloody Maſſacre in <hi>France,</hi> both carried on by Jeſuits.</p>
+               <p>But above all, their moſt barbarous Murdering of no leſs than Twenty Millions of Souls in the Weſt-<hi>Indies;</hi> which ſhews they are no Chriſtians: otherwiſe they could not have ſhed ſo much Blood for to enrich themſelves.</p>
+            </div>
+            <div type="part">
+               <pb n="1" facs="tcp:50876:1"/>
+               <head>Presbyter.</head>
+               <p>
+                  <hi>MR</hi> Calvin <hi>in his Inſtitutions, Book the 4<hi rend="sup">th,</hi> tells us,</hi> That the three Eſtates in every Kingdom have power to lay re<g ref="char:EOLhyphen"/>traints on their Princes, and call them to account, if they any way entrench on the Peoples Liberty; if they connive with the King, they are guilty of perfidious diſſimulation, and treacherouſly betray the Subjects Liberty. <hi>This Doctrine (no man is ſo happy as to be ignorant of) has been practi<g ref="char:EOLhyphen"/>ſed by him and his Followers in</hi> France, Holland, Scotland <hi>and</hi> England, <hi>almoſt to the ruine of the Nation.</hi>
+               </p>
+               <p>
+                  <hi>Mr.</hi> Buchanan, <hi>in his Common place, tells us,</hi> That though Princes and Subjects have relation one to another, yet Subjects in the courſe of Nature were before their Princes; Therefore Princes are not Su<g ref="char:EOLhyphen"/>periour
+<pb n="2" facs="tcp:50876:2"/>to the reſt by Nature, in Right of Father<g ref="char:EOLhyphen"/>hood; but are ſettled by the Suffrages and Conſent of the People. Thereupon, according to Mr. <hi>Bucha<g ref="char:EOLhyphen"/>nan</hi>'s Doctrine, Princes are born for the Good of the People, and not the People for their Prince. There<g ref="char:EOLhyphen"/>fore it is Lawful to take up Arms for Religion, not only againſt any Foreign Prince, but againſt their own, or any part of the Realm: Yet in a free Commonwealth the Supreme Magiſtrate ought rather to be queſtioned in a courſe of Law. That it was well done of the <hi>Switzers</hi> to free themſelves from the Houſe of <hi>Auſtria:</hi> And that <hi>David</hi> might lawfully have killed <hi>Saul,</hi> becauſe he gave his Wife to another Man, expell'd him from his Native Country, mur<g ref="char:EOLhyphen"/>dered the Prieſt for doing ſome good Offices to him. <hi>This is</hi> Buchanan<hi>'s Commentary upon</hi> Calvin<hi>'s Text.</hi>
+               </p>
+               <p>Mr. <hi>Beza:</hi> If a Prince, or Chief Magiſtrate, that is lawfully inveſted with Power, ſhall either unjuſtly ſpoil and deprive his Subjects of their Rights or Priviledges, or otherwiſe oppreſs them, that then the ordinary and inferiour Magiſtrates are to oppoſe him, and by Gods appointment they are bound to protect their Fellow-Subjects againſt him.</p>
+               <p>
+                  <hi>I'll come now to the Doctrine of a whole Sy<g ref="char:EOLhyphen"/>nod and Aſſembly of theirs at</hi> Glaſgow, <hi>which tells us,</hi> It is lawful for Subjects to Covenant and combine without the King, and to enter into Bond of mutual Defence againſt him. That an Aſſembly may abrogate Acts of Parliament, and diſcharge their Fellow-Subjects from their Obedience to them, if they any way reflect upon the buſineſs of the Church: they alſo deny the Kings Right of Calling; and they did continue to Sit and Act, notwith<g ref="char:EOLhyphen"/>ſtanding his Majeſties expreſs Order for their Diſſo<g ref="char:EOLhyphen"/>lution. <hi>See King</hi> Charles <hi>the firſt's Declaration.</hi>
+               </p>
+               <p>Buchanan <hi>tells us,</hi> Though the King be greater than any one Subject, yet he is leſs than the whole for the People are of greater Authority than the King, having Power to beſtow the Crown where they pleaſe, and of making Laws; and that Kings are but Ma<g ref="char:EOLhyphen"/>ſters of the Rolls. That the People have the ſame power over the King as He hath over any one Subject.</p>
+               <p>
+                  <hi>This Doctrine hath been both practiſed and preached by</hi> Penry, Vidal, Coppinger, Hacket <hi>and</hi> Arthington, <hi>in Queen</hi> Elizabeths <hi>days; alſo by Mr.</hi> Cartwright <hi>in his Admonitions. Mr.</hi> Ruther<g ref="char:EOLhyphen"/>ford, <hi>who was lookt on as the Chariot and Horſemen of</hi> Presbytery, <hi>he tells us,</hi> That the Power of a King is but fiduciary; that the Sove<g ref="char:EOLhyphen"/>reign Power is Originally and Radically in the People, that the King is in Dignity inferiour to the people: There is a Court of Neceſſity, as well as a Court of Juſtice, and the Fundamental Laws muſt then ſpeak; it's with People in this extremity, as if they had no Ruler.</p>
+               <p>
+                  <hi>Mr.</hi> Knox <hi>very fairly tells us,</hi> That Subjects may not only lawfully oppoſe their Kings, when they do any thing contrary to Gods Law; but alſo that they may execute Judgment upon them. So that if
+<pb n="3" facs="tcp:50876:2"/>a King be a Murderer, Adulterer, or an Idolater, he ſhall ſuffer according to Gods Law, not as a King, but as an Offender: For if a King prove a Tyrant, then all his Subjects are freed from their Oath of Allegiance and Obedience. Yea, it were good, <hi>ſaith he,</hi> that there were Rewards for thoſe that ſhall kill Tyrants, as well as formerly for thoſe killed Wolves, or other beaſts of prey. Vid. <hi>his Church-Hiſt. And leſt you ſhould ſay I have none but</hi> Scotiſh <hi>Authors for what I have ſaid, be pleaſed to take notice that Mr.</hi> R. B. <hi>in his</hi> Holy Common<g ref="char:EOLhyphen"/>wealth <hi>ſaith,</hi> If a People bound by Oath ſhall de<g ref="char:EOLhyphen"/>poſe their Prince, and chuſe and covenant with an<g ref="char:EOLhyphen"/>other, they may be obliged by the latter, notwith<g ref="char:EOLhyphen"/>ſtanding their former covenant. The real Sove<g ref="char:EOLhyphen"/>reignty among us was in the King, Lords and Com<g ref="char:EOLhyphen"/>mons; and if the King raiſe War againſt ſuch a Parliament, in that caſe the King may not only be reſiſted, but ceaſeth to be a King.</p>
+               <p>
+                  <hi>That the</hi> Presbyters <hi>aboliſhed Kingly Govern<g ref="char:EOLhyphen"/>ment in the State, is moſt true, and Epiſcopacy in the Church; ſold Crown and Church Lands: made it Treaſon to deny the Supremacy of the Commons, null'd all Honours granted by the King ſince 1641. made</hi> Scotland <hi>one Common<g ref="char:EOLhyphen"/>wealth with</hi> England, <hi>and made it Death to pro<g ref="char:EOLhyphen"/>claim the Lawful Heir King. Vid.</hi> Scobels <hi>Col<g ref="char:EOLhyphen"/>lections.</hi> Englands Solomon <hi>knowing what Lo<g ref="char:EOLhyphen"/>cuſts they would prove to this Nation, gave his hopeful Son Prince</hi> Henry <hi>this precaution:</hi> Take heed to ſuch Puritans, who are the very Peſts in the Church and Commonwealth, whom <hi>(ſaith he)</hi> no Deſerts can oblige, neither Oaths nor Promiſes binde. I proteſt before the great God, and ſince I am here upon my Teſtament, it is no place for me to lye in, you ſhall never finde with any Highlands or Border-Thieves greater Ingratitude, and more Lyes and vile Perjuries, than with theſe Phanatick Spirits. <hi>I could heartily wiſh that his Son and Grandſon had not found him ſo true a Prophet. They not only Preach this Doctrine, but put it in practice: For who murdered</hi> Henry <hi>Lord</hi> Darnly, <hi>who mar<g ref="char:EOLhyphen"/>ried the Queen of</hi> Scots, <hi>whom they hanged on an Apple-tree? The</hi> Scotch <hi>Presbyterians.</hi>
+               </p>
+               <p>
+                  <hi>Who Murdered Arch-Biſhop</hi> Beaton <hi>of St.</hi> An<g ref="char:EOLhyphen"/>drews, <hi>and ſaid they were ſent by God to do ſuch godly Acts, only cauſe they imagin'd he was a Perſecutor of Gods people? The</hi> Presbyterians. <hi>Vid.</hi> Knox's <hi>Church-Hiſtory.</hi>
+               </p>
+               <p>
+                  <hi>Who Murdered King</hi> Charles <hi>of ever-bleſſed Memory? The</hi> Presbyterians <hi>in his Politick Ca<g ref="char:EOLhyphen"/>pacity (as they call it) and the</hi> Independents <hi>in his Natural.</hi>
+               </p>
+               <p>
+                  <hi>Who Murdered Dr.</hi> Sharp <hi>Arch-Biſhop of St.</hi> Andrews, <hi>and raiſed Rebellion ſhortly after? The</hi> Presbyterians.</p>
+               <p>
+                  <hi>Who was it that in our late Wars Plundered and Sequeſtred all the Kings Loyal Subjects, and then cryed out, They did but as the</hi> Iſraelites, <hi>rob the</hi> Egyptians? <hi>The</hi> Presbyterians.</p>
+            </div>
+            <pb n="4" facs="tcp:50876:3"/>
+            <div type="conclusion">
+               <p>
+                  <hi>TO</hi> Conclude; from this Parallel it appears, that the <hi>Popiſh Preſ<g ref="char:EOLhyphen"/>byterians,</hi> and <hi>Presbyterian Papiſts</hi> are perfectly united, and have ſet up their Centre in one Principle; and that although they ſeem different in outward Forms and Appearances, they differ no<g ref="char:EOLhyphen"/>thing in Reality and Eſſence: The one has already Murthered their Soveraign, a Brave and Generous Prince; the other have deſigned it, and would do it aſſoon as they could: The difference lies in the Time and Action, not in the Will and Intention; therein they are both united. I adviſe therefore all my Country-men, that as they are careful to avoid the Paw of the Bear, ſo that they ſhould as well eſchew the Mouth of the Lion. The one is ſeen and known a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a diſtance, and therefore Dreaded; the other are masked, and covered with the Lambs Cloathing, that they might the more certainly and Infallibly deſtroy. Pray pull off the Vizard, and be no longer deceived; for you will finde the Gall of the <hi>Dove</hi> as bitter as the Poyſon of the <hi>Serpent.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
